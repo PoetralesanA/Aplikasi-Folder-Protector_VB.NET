@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FolderProtector
+</name>
+</assembly>
+<members>
+<member name="P:Folder_Protector.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Folder_Protector.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Folder_Protector.My.Resources.Resources.Eula">
+	<summary>
+  Looks up a localized string similar to ---------------------------------- EULA ----------------------------------
+Software ini dibuat atas dasar "iseng" semata dengan memanfaatkan fungsi yang telah ada pada Windows
+yang "Tidak Semua" orang ketahui fungsi tersebut lalu saya mengkemasnya menjadi sebuah software agar lebih mudah untuk digunakan.
+
+Saya tidak menjamin data rahasia anda sangat aman dengan perlindungan software ini.
+Dengan membaca dan checklist box dibawah berarti anda sudah memahami &amp; setuju dengan konsekuensi yang terjadi.
+---- [rest of string was truncated]";.
+</summary>
+</member><member name="P:Folder_Protector.My.Resources.Resources.mSgBuka">
+	<summary>
+  Looks up a localized string similar to Folder berhasil Dibuka
+pada path .
+</summary>
+</member><member name="P:Folder_Protector.My.Resources.Resources.mSgKunci">
+	<summary>
+  Looks up a localized string similar to Folder berhasil dikunci 
+.
+</summary>
+</member><member name="T:Folder_Protector.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

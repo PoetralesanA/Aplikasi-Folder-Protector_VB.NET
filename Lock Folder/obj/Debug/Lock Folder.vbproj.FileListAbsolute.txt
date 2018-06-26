@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Lock Folder.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\bin\Debug\Folder Protector.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\bin\Debug\Folder Protector.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\bin\Debug\Folder Protector.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Folder_Protector.Chnge_Pwd.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Folder_Protector.mainForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Folder_Protector.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Folder_Protector.Validasi.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Folder_Protector.Welcome.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Folder Protector.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Folder Protector.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Folder Protector.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Lock Folder\Lock Folder\obj\Debug\Folder_Protector.LogiN.resources
